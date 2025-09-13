@@ -1,2 +1,2 @@
 ## Planet Scale Network Orchestration on Azure
-![planetscale](https://github.com/user-attachments/assets/5f8b4f06-ab82-4f04-aff5-b3bd1b902934)
+![planetScaleNetworks](https://github.com/user-attachments/assets/a794c45a-7f7b-4a74-b505-d8ea0a41c57a)
